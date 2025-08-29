@@ -1,0 +1,33 @@
+.back {
+    background-color: #646cff;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+
+}
+
+.boxHEX {
+    width: 100px;
+    height: 3em;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    margin-bottom: 5px;
+}
+
+.boxRGB {
+    width: 100px;
+    height: 3em;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.form {
+    position: relative;
+    top: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
